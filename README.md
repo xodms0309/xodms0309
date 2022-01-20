@@ -1,12 +1,12 @@
 ## Hi there 👋
-- 📌 I'm currently working at🦁 ```likelion``` as a frontend intern.
+- 📌 I'm currently working on project Whaling 🐳
 - 📚 I'm currently studying ```next.js```, ```kubernetes```, ```TDD```
 - 📫 taeeun.dev@gmail.com
 
 ## My Experience 💎
 - 이화여자대학교 멋쟁이사자처럼 9기 운영진 (2021.02~2021.12)
 - 신촌 창업 동아리 CEOS 프론트엔드 14기 (2021.09~)
-- (주) 멋쟁이사자처럼 프론트엔드 인턴십 (2021.11~)
+- (주) 멋쟁이사자처럼 프론트엔드 인턴십 (2021.11~2022.01)
 - 프로젝트 웨일링(Whaling) 프론트엔드 개발 (2021.12~)
 
 
