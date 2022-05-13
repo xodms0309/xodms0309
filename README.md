@@ -1,6 +1,6 @@
-## Hi there 👋
-- 📌 I'm currently working on project Whaling 🐳
-- 📚 I'm currently studying ```next.js```, ```kubernetes```, ```TDD```
+## Hi there, I'm Taeeun Kim👋
+- 📌 I'm currently working on project Knowlly🥎
+- 📚 I'm currently studying ```next.js```, ```state management in FE```, ```algorithm```
 - 📫 taeeun.dev@gmail.com
 
 ## My Experience 💎
@@ -8,6 +8,7 @@
 - 신촌 창업 동아리 CEOS 프론트엔드 14기 (2021.09~2022.02)
 - (주) 멋쟁이사자처럼 프론트엔드 인턴십 (2021.11~2022.01)
 - 프로젝트 웨일링(Whaling) 프론트엔드 개발 (2021.12~2022.02)
+- IT 연합 동아리 YAPP (2022.04~)
 
 
 ## My Tech Stack 🛠
