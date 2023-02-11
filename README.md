@@ -1,6 +1,6 @@
 ## Hi there, I'm Taeeun Kim👋
-- 📌 I'm currently working on project Knowlly🥎
-- 📚 I'm currently studying ```next.js```, ```state management in FE```, ```algorithm```
+- 📌 I'm currently studying at 우아한테크코스 5th
+- 📚 I'm currently studying ```algorithm```,  ```deep dive in javascript```
 - 📫 taeeun.dev@gmail.com
 
 ## My Experience 💎
@@ -10,7 +10,8 @@
 - (주) 멋쟁이사자처럼 프론트엔드 인턴십 (2021.11~2022.01)
 - IT 연합 동아리 YAPP 20기 (2022.04~2022.08)
   - 프로젝트 널리(Knowlly) 웹뷰 개발
-- IT 연합 동아리 YAPP 21기 프론트엔드 운영진 (2022.09~)
+- IT 연합 동아리 YAPP 21기 프론트엔드 운영진 (2022.09~2022.02)
+- 우아한테크코스 5기 프론트엔드(2022.02~)
 
 
 ## My Tech Stack 🛠
